@@ -14,7 +14,7 @@ try {
 			'gender' => 'Female',
 			'birthdate' => '10-13-2002',
 			'owner' => 'Vien',
-			'email' => 'velasquez@vien.com',
+			'email' => 'velasquez@vianne.com',
 			'address' => 'San Fernando, Pampanga',
 			'contact_number' => '091234567'
 		],
