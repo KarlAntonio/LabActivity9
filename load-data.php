@@ -10,21 +10,21 @@ try {
 
 	$pets = [
 		[
-			'name' => 'Mari',
+			'name' => 'Apple',
 			'gender' => 'Female',
 			'birthdate' => '10-13-2002',
-			'owner' => 'Maphne',
-			'email' => 'gozun@maphne.com',
-			'address' => '30D 15th Avenue',
+			'owner' => 'Vien',
+			'email' => 'velasquez@vien.com',
+			'address' => 'San Fernando, Pampanga',
 			'contact_number' => '091234567'
 		],
 		[
-			'name' => 'Marc',
+			'name' => 'Kobe',
 			'gender' => 'Male',
 			'birthdate' => '01-13-2002',
-			'owner' => 'Czarina',
-			'email' => 'sibugal@czarina.com',
-			'address' => 'McArthur Hwy',
+			'owner' => 'Karl',
+			'email' => 'antonio@karl.com',
+			'address' => 'Mabalacat, Pampanga',
 			'contact_number' => '098765432'
 		]
 	];
