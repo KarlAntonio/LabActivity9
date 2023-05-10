@@ -1,5 +1,5 @@
 {
-    "name": "itsromack/ccs06-load-update-delete",
+    "name": "KarlAntonio/LabActivity9",
     "require": {
         "vlucas/phpdotenv": "^5.5"
     },
