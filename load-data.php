@@ -25,7 +25,7 @@ try {
 			'owner' => 'Karl',
 			'email' => 'antonio@karl.com',
 			'address' => 'Mabalacat, Pampanga',
-			'contact_number' => '098765432'
+			'contact_number' => '09684677656'
 		]
 	];
 	Pet::registerMany($pets);
